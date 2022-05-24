@@ -1,0 +1,14 @@
+{
+  "name": "nu-app",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Sean Sabbage",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^18.3.0"
+  }
+}
